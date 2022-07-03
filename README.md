@@ -1,2 +1,5 @@
 # Pi-Assistant-files
- files for pi-assistant
+
+## NOTE: Pi-Assistant isn't maintained anymore. Use the files here at your own risk.
+
+files for pi-assistant
